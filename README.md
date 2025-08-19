@@ -111,7 +111,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-nuruabimana@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuruabimana@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuru-abimana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuru-abimana-a990a9181/)
 
 </div>
 
