@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | Tech Lead | AI Enthusiast | Founder of TUZA AI**
 
-Welcome to my GitHub! I'm a dedicated Senior Software Engineer with over 5 years of industry experience in designing and implementing scalable web and mobile applications. Currently leading engineering teams and building innovative solutions that serve millions of users across East Africa.
+
 
 ---
 
@@ -104,21 +104,7 @@ Welcome to my GitHub! I'm a dedicated Senior Software Engineer with over 5 years
 
 ---
 
-## 🏆 Featured Projects & Current Work
 
-### 🤖 **TUZA AI** *(Founder & Creator)*
-AI-powered healthcare assistance app for Android & iOS that analyzes patient prompts and identifies nearest pharmacies with required medications.
-
-### 🏦 **Digital Banking Platform @Aseity**
-Leading development of a scalable banking platform serving 30M+ users across East Africa with microservices architecture.
-
-### 🧪 **Enterprise Testing Suite @BKTechouse**
-Comprehensive automation testing for systems serving 10M+ users (SNS, SKS, UrubutoPay, Urubuto Edu) using Playwright & TypeScript.
-
-### 🏛️ **IremboGov Platform @Irembo**
-Government services platform development with Java, Angular, and Flutter applications.
-
----
 
 ## 🤝 Let's Connect
 
@@ -133,11 +119,6 @@ Government services platform development with Java, Angular, and Flutter applica
 
 <div align="center">
 
-### ✨ *"Building scalable solutions with modern technology stacks"* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbimanaNuru&color=brightgreen&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/AbimanaNuru?style=social)](https://github.com/AbimanaNuru?tab=followers)
-
-**⭐ Open to collaborations and exciting opportunities! ⭐**
+### ⭐ *Open to collaborations and exciting opportunities!* ⭐
 
 </div>
