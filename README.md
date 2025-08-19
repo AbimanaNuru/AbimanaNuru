@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently**: Tech Lead @Aseity, leading a team of 5 engineers building a digital banking platform for 30M+ users
+- 🔭 **Currently**: Tech Lead @Aseity, leading a team of engineers building a digital banking platform for 30M+ users
 - 🏢 **Experience**: Senior Automation Testing @BKTechouse, Software Engineer @Irembo
 - 🤖 **Founder**: Creator of TUZA AI - AI-powered healthcare assistance app
 - 🎓 **Education**: Bachelor of Science in Information Systems (UR College of Science and Technology, 2023)
